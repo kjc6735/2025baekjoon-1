@@ -59,7 +59,6 @@ public class Main {
         }
     }
 
-
     private static boolean inRange(int x, int y){
         return x >= 1 && y >= 1 && x <= N && y <= N;
     }
