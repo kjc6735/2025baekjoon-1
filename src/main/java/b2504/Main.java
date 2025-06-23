@@ -48,7 +48,6 @@ public class Main{
 
         }
 
-
         if(!stack.isEmpty()) {
             System.out.println(0);
             return ;
